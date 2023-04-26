@@ -74,11 +74,11 @@ Portfolio: setup and mobile first project is the second part of my portiflio .
   
 ### Setup
 
-Copy the projects URL from github then clone from your code editor
+Clone your repo to your local device using cloning commands and switch to the branch you want to work on
 
 ### Install
 
-Install almost all dependencies.
+Install  all dependencies.
 This one will install stylelinter:
 
 > npm install
@@ -124,7 +124,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> "Never stop learning, code never stop teaching"
+> I would like to say thank you for microverse student success and my code partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
