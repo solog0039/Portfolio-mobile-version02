@@ -74,7 +74,7 @@ Portfolio: setup and mobile first project is the second part of my portiflio .
   
 ### Setup
 
-Clone your repo to your local device using cloning commands and switch to the branch you want to work on
+Run the command to clone the project locally on your computer "git clone https://github.com/solog0039/Portfolio-setup-and-mobile-first2.git"
 
 ### Install
 
