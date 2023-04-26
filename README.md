@@ -56,10 +56,6 @@ Portfolio: setup and mobile first project is the second part of my portiflio .
 <p align="right">
 (<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-  > None
-
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   ## 💻 Getting Started <a name="getting-started"></a>
